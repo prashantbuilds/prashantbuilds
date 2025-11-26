@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-prashant&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-prashant" /> </p>
 
-- 🔭 I’m currently working on **#365DaysofCode Challenge publically on LinkedIn**
+- 🔭 I’m currently working at VirtualStaff remotely**
 
-- 👨‍💻 All of my projects are available at [https://geekyprashant.com](https://geekyprashant.com)
-
-- 💬 Ask me about **React.js, Next.js, Tailwind CSS, TypeScript, Prisma, and MySQL**
+- 💬 Ask me about **React.js, Next.js, Tailwind CSS, TypeScript, Prisma, PostgreSQL, and AWS Lightsail**
 
 - 📫 Drop a mail at **geekyprashant840@gmail.com**
 
@@ -26,8 +24,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/geeky-prashant/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Bhardwaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-prashant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/prashantbuilds/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Bhardwaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantbuilds&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
