@@ -35,5 +35,5 @@
 
   <br/>
     <a href="https://github.com/prashantbuilds/github-readme-stats"><img alt="Prashant Bhardwaj's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prashantbuilds&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/prashantbuilds/github-readme-stats"><img alt="Prashant Bhardwaj's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geeky-prashant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/prashantbuilds/github-readme-stats"><img alt="Prashant Bhardwaj's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashantbuilds&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
