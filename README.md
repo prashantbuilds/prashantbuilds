@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at VirtualStaff remotely**
 
-- 💬 Ask me about **React.js, Next.js, Tailwind CSS, TypeScript, Prisma, PostgreSQL, and AWS Lightsail**
+- 💬 Ask me about **React.js, Next.js, Tailwind CSS, TypeScript, Prisma, PostgreSQL, Claude, Cursor and AWS Lightsail**
 
 - 📫 Drop a mail at **geekyprashant840@gmail.com**
 
